@@ -7,3 +7,4 @@ A repo for any cool updates or tools found across the web.
 - [Differential Diffusion](./differential-diffusion/README.md)
 - [ComfyUI Resources](./comfyui-resources/README.md)
 - [Kolors](./kolors/README.md)
+- [Paints-Undo](./paints-undo/README.md)
