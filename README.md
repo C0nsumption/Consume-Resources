@@ -10,3 +10,4 @@ A repo for any cool updates or tools found across the web.
 - [Paints-Undo](./paints-undo/README.md)
 - [LivePortrait](./live-portrait/README.md)
 - [Phi-3-HornyVision](./horny-vision/README.md)
+- [CharacterGen](./character-gen/README.md)
